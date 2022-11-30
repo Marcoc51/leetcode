@@ -10,3 +10,5 @@ This is for leetcode problems solutions
 | 3      | [Valid Anagram](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/03_Valid_Anagram.py)                                            | Easy        |
 | 4      | [Replace Elements with Greatest Element on Right Side](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/04_Replace_Elements_.py) | Easy        |
 | 5      | [Is Subsequence](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/05_Is_Subsequence.py)                                          | Easy        |
+| 6      | [Two Sum](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/06_Two_Sum.py)                                                        | Easy        |
+| 7      | [Remove Element](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/07_Remove_Element.py)                                          | Easy        |
