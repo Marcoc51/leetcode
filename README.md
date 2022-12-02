@@ -14,3 +14,4 @@ This is for leetcode problems solutions
 | 7      | [Remove Element](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/07_Remove_Element.py)                                          | Easy        |
 | 8      | [Longest Common Prefix](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/08_Longest_Common_Prefix.py)                            | Easy        |
 | 9      | [Group Anagrams](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/09_Group_Anagrams.py)                                          | Medium      |
+| 10     | [Majority Element](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/10_Majority_Element.py)                                      | Easy        |
