@@ -16,3 +16,4 @@ This is for leetcode problems solutions
 | 9      | [Group Anagrams](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/09_Group_Anagrams.py)                                          | Medium      |
 | 10     | [Majority Element](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/10_Majority_Element.py)                                      | Easy        |
 | 11     | [Next Greater Element I](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/11_Next_Greater_Element_I.py)                          | Easy        |
+| 12     | [Unique Email Addresses](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/12_Unique_Email_Addresses.py)                          | Easy        |
