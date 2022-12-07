@@ -20,3 +20,5 @@ This is for leetcode problems solutions
 | 13     | [Isomorphic Strings](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/13_Isomorphic_Strings.py)                                  | Easy        |
 | 14     | [Can Place Flowers](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/14_Can_Place_Flowers.py)                                    | Easy        |
 | 15     | [Find Pivot Index](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/15_Find_Pivot_Index.py)                                      | Easy        |
+| 16     | [Word Pattern](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/16_Word_Pattern.py)                                              | Easy        |
+| 17     | [Top K Frequent Elements](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/17_Top_K_Frequent_Elements.py)                        | Medium      |
