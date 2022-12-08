@@ -22,3 +22,4 @@ This is for leetcode problems solutions
 | 15     | [Find Pivot Index](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/15_Find_Pivot_Index.py)                                      | Easy        |
 | 16     | [Word Pattern](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/16_Word_Pattern.py)                                              | Easy        |
 | 17     | [Top K Frequent Elements](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/17_Top_K_Frequent_Elements.py)                        | Medium      |
+| 18     | [Pascal's Triangle](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/18_Pascals_Triangle.py)                                     | Easy        |
