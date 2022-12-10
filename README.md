@@ -24,3 +24,5 @@ This is for leetcode problems solutions
 | 17     | [Top K Frequent Elements](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/17_Top_K_Frequent_Elements.py)                        | Medium      |
 | 18     | [Pascal's Triangle](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/18_Pascals_Triangle.py)                                     | Easy        |
 | 19     | [Plus One](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/19_Plus_One.py)                                                      | Easy        |
+| 20     | [Find All Numbers Disappeared in an Array](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/20_Find_Numbers_Disappeared.py)      | Easy        |
+| 21     | [Sort Colors](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/21_Sort_Colors.py)                                                | Medium      |
