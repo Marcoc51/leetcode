@@ -26,3 +26,4 @@ This is for leetcode problems solutions
 | 19     | [Plus One](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/19_Plus_One.py)                                                      | Easy        |
 | 20     | [Find All Numbers Disappeared in an Array](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/20_Find_Numbers_Disappeared.py)      | Easy        |
 | 21     | [Sort Colors](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/21_Sort_Colors.py)                                                | Medium      |
+| 22     | [Maximum Number of Balloons](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/22_Maximum_Number_of_Balloons.py)                  | Easy        |
