@@ -30,3 +30,4 @@ This is for leetcode problems solutions
 | 23     | [Product of Array Except Self](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/23_Product_of_Array_Except_Self.py)              | Medium      |
 | 24     | [Valid Sudoku](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/24_Valid_Sudoku.py)                                              | Medium      |
 | 25     | [Longest Consecutive Sequence](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/25_Longest_Consecutive_Sequence.py)              | Medium      |
+| 26     | [Best Time to Buy and Sell Stock II](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/26_Best_Time_to_Stock.py)                  | Medium      |
