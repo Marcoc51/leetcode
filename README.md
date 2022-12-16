@@ -31,3 +31,4 @@ This is for leetcode problems solutions
 | 24     | [Valid Sudoku](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/24_Valid_Sudoku.py)                                              | Medium      |
 | 25     | [Longest Consecutive Sequence](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/25_Longest_Consecutive_Sequence.py)              | Medium      |
 | 26     | [Best Time to Buy and Sell Stock II](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/26_Best_Time_to_Stock.py)                  | Medium      |
+| 27     | [Best Time to Buy and Sell Stock](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/27_Best_Time_to_buy_Stock.py)                 | Easy        |
