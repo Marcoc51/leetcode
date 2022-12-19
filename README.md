@@ -36,3 +36,5 @@ This is for leetcode problems solutions
 | 29     | [Encode and Decode TinyURL](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/29_Encode_and_Decode_TinyURL.py)                    | Medium    |
 | 30     | [Repeated DNA Sequences](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/30_Repeated_DNA_Sequences.py)                          | Medium    |
 | 31     | [Unique Length-3 Palindromic Subsequences](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/31_Palindromic_Subsequences.py)      | Medium    |
+| 32     | [Largest Number](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/32_Largest_Number.py)                                          | Medium    |
+| 33     | [Find All Anagrams in a String](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/33_Find_All_Anagrams_in_a_String.py)            | Medium    |
