@@ -38,3 +38,4 @@ This is for leetcode problems solutions
 | 31     | [Unique Length-3 Palindromic Subsequences](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/31_Palindromic_Subsequences.py)      | Medium    |
 | 32     | [Largest Number](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/32_Largest_Number.py)                                          | Medium    |
 | 33     | [Find All Anagrams in a String](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/33_Find_All_Anagrams_in_a_String.py)            | Medium    |
+| 34     | [Minimum Number of Swaps to Make the String Balanced](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/34_Number_of_Swaps.py)    | Medium    |
