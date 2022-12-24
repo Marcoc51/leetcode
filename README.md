@@ -42,3 +42,4 @@ This is for leetcode problems solutions
 | 35     | [Merge Sorted Array](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/35_Merge_Sorted_Array.py)                                  | Easy      |
 | 36     | [Valid Palindrome](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/36_Valid_Palindrome.py)                                      | Easy      |
 | 37     | [Valid Palindrome II](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/37_Valid_Palindrome_II.py)                                | Easy      |
+| 38     | [Minimum Difference Between Highest and Lowest of K Scores](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/38_Minimum_Diff.py) | Easy      |
