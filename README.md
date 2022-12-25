@@ -44,3 +44,4 @@ This is for leetcode problems solutions
 | 37     | [Valid Palindrome II](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/37_Valid_Palindrome_II.py)                                | Easy      |
 | 38     | [Minimum Difference Between Highest and Lowest of K Scores](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/38_Minimum_Diff.py) | Easy      |
 | 39     | [Two Sum II - Input Array Is Sorted](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/39_Two_Sum_II.py)                          | Medium    |
+| 40     | [Reverse String](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/40_Reverse_String.py)                                          | Easy      |
