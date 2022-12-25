@@ -1,5 +1,7 @@
 ## leetcode
-This is for leetcode problems solutions
+Welcome to my repository of solutions for LeetCode problems!<br>
+Here, you will find my solutions to various coding challenges on Data Structures and Algorithms.<br>
+These solutions have been tested and verified to work correctly on the LeetCode platform.
 
 1. #### Data Structures Problems:
 
