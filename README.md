@@ -45,3 +45,4 @@ This is for leetcode problems solutions
 | 38     | [Minimum Difference Between Highest and Lowest of K Scores](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/38_Minimum_Diff.py) | Easy      |
 | 39     | [Two Sum II - Input Array Is Sorted](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/39_Two_Sum_II.py)                          | Medium    |
 | 40     | [Reverse String](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/40_Reverse_String.py)                                          | Easy      |
+| 41     | [Remove Duplicates from Sorted Array](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/41_Remove_Duplicates_from_Sort_Array.py)  | Easy      |
