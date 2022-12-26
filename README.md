@@ -48,3 +48,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 39     | [Two Sum II - Input Array Is Sorted](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/39_Two_Sum_II.py)                          | Medium    |
 | 40     | [Reverse String](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/40_Reverse_String.py)                                          | Easy      |
 | 41     | [Remove Duplicates from Sorted Array](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/41_Remove_Duplicates_from_Sort_Array.py)  | Easy      |
+| 42     | [Rotate Array](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/42_Rotate_Array.py)                                              | Medium    |
