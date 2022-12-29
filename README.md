@@ -51,3 +51,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 42     | [Rotate Array](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/42_Rotate_Array.py)                                              | Medium    |
 | 43     | [Move Zeroes](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/43_Move_Zeroes.py)                                                | Easy      |
 | 44     | [3Sum](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/44_3Sum.py)                                                              | Medium    |
+| 45     | [Container With Most Water](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/45_Container_With_Most_Water.py)                    | Medium    |
