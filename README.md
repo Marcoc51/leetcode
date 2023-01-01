@@ -54,3 +54,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 45     | [Container With Most Water](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/45_Container_With_Most_Water.py)                    | Medium    |
 | 46     | [Boats to Save People](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/46_Boats_to_Save_People.py)                              | Medium    |
 | 47     | [Array With Elements Not Equal to Average of Neighbors](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/47_Array_Not_Average.py)| Medium    |
+| 48     | [Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/48_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.py)  | Medium    |
