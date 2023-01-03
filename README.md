@@ -56,3 +56,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 47     | [Array With Elements Not Equal to Average of Neighbors](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/47_Array_Not_Average.py)| Medium    |
 | 48     | [Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/48_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.py)  | Medium    |
 | 49     | [4Sum](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/49_4Sum.py)                                                              | Medium    |
+| 50     | [Find the Index of the First Occurrence in a String](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/50_Find_the_Index_of_the_First_Occurrence_in_a_String.py)| Medium    |
