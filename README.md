@@ -58,3 +58,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 49     | [4Sum](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/49_4Sum.py)                                                              | Medium    |
 | 50     | [Find the Index of the First Occurrence in a String](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/50_Find_the_Index_of_the_First_Occurrence_in_a_String.py)| Medium    |
 | 51     | [Trapping Rain Water](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/51_Trapping_Rain_Water.py)                                | Hard      |
+| 52     | [Number of Pairs of Interchangeable Rectangles](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/52_Number_of_Pairs_of_Interchangeable_Rectangles.py)    | Medium    |
