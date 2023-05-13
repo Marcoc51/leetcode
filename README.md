@@ -60,3 +60,13 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 51     | [Trapping Rain Water](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/51_Trapping_Rain_Water.py)                                | Hard      |
 | 52     | [Number of Pairs of Interchangeable Rectangles](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/52_Number_of_Pairs_of_Interchangeable_Rectangles.py)    | Medium    |
 | 53     | [Insert Delete GetRandom O(1)](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/53_Insert_Delete_GetRandom_O(1).py)              | Medium    |
+
+
+2. #### SQL I:
+
+| ID     | Problem                                                                                                                                        | DIFFICULTY|
+| -------|:----------------------------------------------------------------------------------------------------------------------------------------------:| ---------:|
+| 1      | [Big Countries](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/01_Big_Countries.sql)                                       | Easy      |
+| 2      | [Recyclable and Low Fat Products](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/02_Recyclable_and_Low_Fat_Products.sql)   | Easy      |
+| 3      | [Find Customer Referee](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/03_Find_Customer_Referee.sql)                       | Easy      |
+| 4      | [Customers Who Never Order](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/04_Customers_Who_Never_Order.sql)               | Easy      |
