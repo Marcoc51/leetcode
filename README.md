@@ -64,12 +64,13 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 
 2. #### SQL I:
 
-| ID     | Problem                                                                                                                                        | DIFFICULTY|
-| -------|:----------------------------------------------------------------------------------------------------------------------------------------------:| ---------:|
-| 1      | [Big Countries](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/01_Big_Countries.sql)                                       | Easy      |
-| 2      | [Recyclable and Low Fat Products](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/02_Recyclable_and_Low_Fat_Products.sql)   | Easy      |
-| 3      | [Find Customer Referee](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/03_Find_Customer_Referee.sql)                       | Easy      |
-| 4      | [Customers Who Never Order](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/04_Customers_Who_Never_Order.sql)               | Easy      |
-| 5      | [Calculate Special Bonus](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/05_Calculate_Special_Bonus.sql)                   | Easy      |
-| 6      | [Swap Salary](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/06_Swap_Salary.sql)                                           | Easy      |
-| 7      | [Delete Duplicate Emails](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/07_Delete_Duplicate_Emails.sql)                   | Easy      |
+| ID      | Problem                                                                                                                                        | DIFFICULTY|
+| --------|:----------------------------------------------------------------------------------------------------------------------------------------------:| ---------:|
+| 1       | [Big Countries](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/01_Big_Countries.sql)                                        | Easy      |
+| 2       | [Recyclable and Low Fat Products](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/02_Recyclable_and_Low_Fat_Products.sql)    | Easy      |
+| 3       | [Find Customer Referee](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/03_Find_Customer_Referee.sql)                        | Easy      |
+| 4       | [Customers Who Never Order](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/04_Customers_Who_Never_Order.sql)                | Easy      |
+| 5       | [Calculate Special Bonus](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/05_Calculate_Special_Bonus.sql)                    | Easy      |
+| 6       | [Swap Salary](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/06_Swap_Salary.sql)                                            | Easy      |
+| 7       | [Delete Duplicate Emails](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/07_Delete_Duplicate_Emails.sql)                    | Easy      |
+| 8       | [Fix Names in a Table](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/08_Fix_Names_in_a_Table.sql)                          | Easy      |
