@@ -74,3 +74,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 6       | [Swap Salary](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/06_Swap_Salary.sql)                                            | Easy      |
 | 7       | [Delete Duplicate Emails](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/07_Delete_Duplicate_Emails.sql)                    | Easy      |
 | 8       | [Fix Names in a Table](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/08_Fix_Names_in_a_Table.sql)                          | Easy      |
+| 9       | [Group Sold Products By The Date](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/09_Group_Sold_Products_By_The_Date.sql)    | Easy      |
