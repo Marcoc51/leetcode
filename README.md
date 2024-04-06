@@ -62,20 +62,21 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 53     | [Insert Delete GetRandom O(1)](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/53_Insert_Delete_GetRandom_O(1).py)              | Medium    |
 
 
-2. #### SQL I:
+2. #### SQL:
 
 | ID      | Problem                                                                                                                                        | DIFFICULTY|
 | --------|:----------------------------------------------------------------------------------------------------------------------------------------------:| ---------:|
-| 1       | [Big Countries](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/01_Big_Countries.sql)                                        | Easy      |
-| 2       | [Recyclable and Low Fat Products](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/02_Recyclable_and_Low_Fat_Products.sql)    | Easy      |
-| 3       | [Find Customer Referee](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/03_Find_Customer_Referee.sql)                        | Easy      |
-| 4       | [Customers Who Never Order](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/04_Customers_Who_Never_Order.sql)                | Easy      |
-| 5       | [Calculate Special Bonus](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/05_Calculate_Special_Bonus.sql)                    | Easy      |
-| 6       | [Swap Salary](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/06_Swap_Salary.sql)                                            | Easy      |
-| 7       | [Delete Duplicate Emails](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/07_Delete_Duplicate_Emails.sql)                    | Easy      |
-| 8       | [Fix Names in a Table](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/08_Fix_Names_in_a_Table.sql)                          | Easy      |
-| 9       | [Group Sold Products By The Date](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/09_Group_Sold_Products_By_The_Date.sql)    | Easy      |
-| 10      | [Patients With a Condition](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/10_Patients_With_a_Condition.sql)                | Easy      |
+| 1       | [Big Countries](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/01_Big_Countries.sql)                                                   | Easy      |
+| 2       | [Recyclable and Low Fat Products](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/02_Recyclable_and_Low_Fat_Products.sql)               | Easy      |
+| 3       | [Find Customer Referee](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/03_Find_Customer_Referee.sql)                                   | Easy      |
+| 4       | [Customers Who Never Order](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/04_Customers_Who_Never_Order.sql)                           | Easy      |
+| 5       | [Calculate Special Bonus](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/05_Calculate_Special_Bonus.sql)                               | Easy      |
+| 6       | [Swap Salary](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/06_Swap_Salary.sql)                                                       | Easy      |
+| 7       | [Delete Duplicate Emails](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/07_Delete_Duplicate_Emails.sql)                               | Easy      |
+| 8       | [Fix Names in a Table](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/08_Fix_Names_in_a_Table.sql)                                     | Easy      |
+| 9       | [Group Sold Products By The Date](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/09_Group_Sold_Products_By_The_Date.sql)               | Easy      |
+| 10      | [Patients With a Condition](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/10_Patients_With_a_Condition.sql)                           | Easy      |
 | 11      | [Employees With Missing Information](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/11_Employees_With_Missing_Information.sql)         | Easy      |
-| 12      | [Rearrange Products Table](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/12_Rearrange_Products_Table.sql)                  | Easy      |
-| 13      | [Tree Node](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/13_Tree_Node.sql)                                                | Medium    |
+| 12      | [Rearrange Products Table](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/12_Rearrange_Products_Table.sql)                             | Easy      |
+| 13      | [Tree Node](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/13_Tree_Node.sql)                                                           | Medium    |
+| 14      | [Article Views I](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/14_Article_Views_I.sql)                                               | Easy      |
