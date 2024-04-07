@@ -80,3 +80,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 12      | [Rearrange Products Table](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/12_Rearrange_Products_Table.sql)                             | Easy      |
 | 13      | [Tree Node](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/13_Tree_Node.sql)                                                           | Medium    |
 | 14      | [Article Views I](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/14_Article_Views_I.sql)                                               | Easy      |
+| 15      | [Invalid Tweets](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/15_Invalid_Tweets.sql)                                                 | Easy      |
