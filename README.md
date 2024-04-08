@@ -81,3 +81,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 13      | [Tree Node](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/13_Tree_Node.sql)                                                           | Medium    |
 | 14      | [Article Views I](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/14_Article_Views_I.sql)                                               | Easy      |
 | 15      | [Invalid Tweets](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/15_Invalid_Tweets.sql)                                                 | Easy      |
+| 16      | [Replace Employee Id With The Unique Identifier](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/16_Replace_Employee_Id_With_The_Unique_Identifier.sql)  | Easy      |
