@@ -83,3 +83,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 15      | [Invalid Tweets](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/15_Invalid_Tweets.sql)                                                 | Easy      |
 | 16      | [Replace Employee Id With The Unique Identifier](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/16_Replace_Employee_Id_With_The_Unique_Identifier.sql)  | Easy      |
 | 17      | [Product Sales Analysis I](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/17_Product_Sales_Analysis_I.sql)                             | Easy      |
+| 18      | [Customer Who Visited but Did Not Make Any Transactions](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/18_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql)| Easy      |
