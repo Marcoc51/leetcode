@@ -86,3 +86,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 18      | [Customer Who Visited but Did Not Make Any Transactions](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/18_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql)| Easy      |
 | 19      | [Rising Temperature](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/19_Rising_Temperature.sql)                                         | Easy      |
 | 20      | [Average Time of Process per Machine](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/20_Average_Time_of_Process_per_Machine.sql)       | Easy      |
+| 21      | [Employee Bonus](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/21_Employee_Bonus.sql)                                                 | Easy      |
