@@ -89,3 +89,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 21      | [Employee Bonus](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/21_Employee_Bonus.sql)                                                 | Easy      |
 | 22      | [Students and Examinations](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/22_Students_and_Examinations.sql)                           | Easy      |
 | 23      | [Managers with at Least 5 Direct Reports](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/23_Managers_with_at_Least_5_Direct_Reports.sql) | Easy      |
+| 24      | [Not Boring Movies](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/24_Not_Boring_Movies.sql)                                           | Easy      |
