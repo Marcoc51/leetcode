@@ -91,3 +91,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 23      | [Managers with at Least 5 Direct Reports](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/23_Managers_with_at_Least_5_Direct_Reports.sql) | Medium    |
 | 24      | [Not Boring Movies](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/24_Not_Boring_Movies.sql)                                           | Easy      |
 | 25      | [Average Selling Price](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/25_Average_Selling_Price.sql)                                   | Easy      |
+| 26      | [Project Employees I](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/26_Project_Employees_I.sql)                                       | Easy      |
