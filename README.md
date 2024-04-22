@@ -95,3 +95,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 27      | [Percentage of Users Attended a Contest](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/27_Percentage_of_Users_Attended_a_Contest.sql) | Easy      |
 | 28      | [Confirmation Rate](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/28_Confirmation_Rate.sql)                                           | Medium    |
 | 29      | [Queries Quality and Percentage](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/29_Queries_Quality_and_Percentage.sql)                 | Easy      |
+| 30      | [Number of Unique Subjects Taught by Each Teacher](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/30_Number_of_Unique_Subjects_Taught_by_Each_Teacher.sql)| Easy      |
