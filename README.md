@@ -102,3 +102,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 34      | [Game Play Analysis IV](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/34_Game_Play_Analysis_IV.sql)                                   | Medium    |
 | 35      | [Product Sales Analysis III](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/35_Product_Sales_Analysis_III.sql)                         | Medium    |
 | 36      | [Classes More Than 5 Students](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/36_Classes_More_Than_5_Students.sql)                     | Easy      |
+| 37      | [Find Followers Count](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/37_Find_Followers_Count.sql)                                     | Easy      |
