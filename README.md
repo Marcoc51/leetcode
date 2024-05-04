@@ -107,3 +107,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 39      | [Customers Who Bought All Products](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/39_Customers_Who_Bought_All_Products.sql)           | Medium    |
 | 40      | [The Number of Employees Which Report to Each Employee](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/40_The_Number_of_Employees_Which_Report_to_Each_Employee.sql)| Easy      |
 | 41      | [Primary Department for Each Employee](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/41_Primary_Department_for_Each_Employee.sql)     | Easy      |
+| 42      | [Triangle Judgement](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/42_Triangle_Judgement.sql)                                         | Easy      |
