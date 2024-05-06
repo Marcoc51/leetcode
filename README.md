@@ -109,3 +109,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 41      | [Primary Department for Each Employee](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/41_Primary_Department_for_Each_Employee.sql)     | Easy      |
 | 42      | [Triangle Judgement](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/42_Triangle_Judgement.sql)                                         | Easy      |
 | 43      | [Consecutive Numbers](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/43_Consecutive_Numbers.sql)                                       | Medium    |
+| 44      | [Product Price at a Given Date](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/44_Product_Price_at_a_Given_Date.sql)                   | Medium    |
