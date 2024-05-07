@@ -110,3 +110,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 42      | [Triangle Judgement](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/42_Triangle_Judgement.sql)                                         | Easy      |
 | 43      | [Consecutive Numbers](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/43_Consecutive_Numbers.sql)                                       | Medium    |
 | 44      | [Product Price at a Given Date](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/44_Product_Price_at_a_Given_Date.sql)                   | Medium    |
+| 45      | [Last Person to Fit in the Bus](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/45_Last_Person_to_Fit_in_the_Bus.sql)                   | Medium    |
