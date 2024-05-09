@@ -112,3 +112,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 44      | [Product Price at a Given Date](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/44_Product_Price_at_a_Given_Date.sql)                   | Medium    |
 | 45      | [Last Person to Fit in the Bus](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/45_Last_Person_to_Fit_in_the_Bus.sql)                   | Medium    |
 | 46      | [Count Salary Categories](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/46_Count_Salary_Categories.sql)                               | Medium    |
+| 47      | [Employees Whose Manager Left the Company](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/47_Employees_Whose_Manager_Left_the_Company.sql)| Easy      |
