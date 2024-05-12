@@ -115,3 +115,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 47      | [Employees Whose Manager Left the Company](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/47_Employees_Whose_Manager_Left_the_Company.sql)| Easy      |
 | 48      | [Exchange Seats](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/48_Exchange_Seats.sql)                                                 | Medium    |
 | 49      | [Movie Rating](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/49_Movie_Rating.sql)                                                     | Medium    |
+| 50      | [Restaurant Growth](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/50_Restaurant_Growth.sql)                                           | Medium    |
