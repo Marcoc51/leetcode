@@ -117,3 +117,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 49      | [Movie Rating](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/49_Movie_Rating.sql)                                                     | Medium    |
 | 50      | [Restaurant Growth](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/50_Restaurant_Growth.sql)                                           | Medium    |
 | 51      | [Friend Requests II: Who Has the Most Friends](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/51_Friend_Requests_II_Who_Has_the_Most_Friends.sql)| Medium    |
+| 52      | [Investments in 2016](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/52_Investments_in_2016.sql)                                       | Medium    |
