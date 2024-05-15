@@ -118,3 +118,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 50      | [Restaurant Growth](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/50_Restaurant_Growth.sql)                                           | Medium    |
 | 51      | [Friend Requests II: Who Has the Most Friends](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/51_Friend_Requests_II_Who_Has_the_Most_Friends.sql)| Medium    |
 | 52      | [Investments in 2016](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/52_Investments_in_2016.sql)                                       | Medium    |
+| 53      | [Department Top Three Salaries](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/53_Department_Top_Three_Salaries.sql)                   | Hard      |
