@@ -34,8 +34,7 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 25     | [Longest Consecutive Sequence](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/25_Longest_Consecutive_Sequence.py)              | Medium    |
 | 26     | [Best Time to Buy and Sell Stock II](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/26_Best_Time_to_Stock.py)                  | Medium    |
 | 27     | [Best Time to Buy and Sell Stock](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/27_Best_Time_to_buy_Stock.py)                 | Easy      |
-| 28     | [Subarray Sum Equals K]
-(https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/28_Subarray_Sum_Equals_K.py)                            | Medium    |
+| 28     | [Subarray Sum Equals K](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/28_Subarray_Sum_Equals_K.py)                            | Medium    |
 | 29     | [Encode and Decode TinyURL](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/29_Encode_and_Decode_TinyURL.py)                    | Medium    |
 | 30     | [Repeated DNA Sequences](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/30_Repeated_DNA_Sequences.py)                          | Medium    |
 | 31     | [Unique Length-3 Palindromic Subsequences](https://github.com/Marcoc51/leetcode/blob/main/DS%26Algorithms/31_Palindromic_Subsequences.py)      | Medium    |
