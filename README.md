@@ -120,3 +120,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 52      | [Investments in 2016](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/52_Investments_in_2016.sql)                                       | Medium    |
 | 53      | [Department Top Three Salaries](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/53_Department_Top_Three_Salaries.sql)                   | Hard      |
 | 54      | [Find Users With Valid E-Mails](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/54_Find_Users_With_Valid_EMails.sql)                    | Easy      |
+| 55      | [List the Products Ordered in a Period](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/55_List_the_Products_Ordered_in_a_Period.sql)   | Easy      |
