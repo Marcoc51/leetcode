@@ -123,3 +123,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 55      | [List the Products Ordered in a Period](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/55_List_the_Products_Ordered_in_a_Period.sql)   | Easy      |
 | 56      | [Second Highest Salary](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/56_Second_Highest_Salary.sql)                                   | Medium    |
 | 57      | [Combine Two Tables](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/57_Combine_Two_Tables.sql)                                         | Easy      |
+| 58      | [Nth Highest Salary](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/58_Nth_Highest_Salary.sql)                                         | Medium    |
