@@ -125,3 +125,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 57      | [Combine Two Tables](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/57_Combine_Two_Tables.sql)                                         | Easy      |
 | 58      | [Nth Highest Salary](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/58_Nth_Highest_Salary.sql)                                         | Medium    |
 | 59      | [Rank Scores](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/59_Rank_Scores.sql)                                                       | Medium    |
+| 60      | [Employees Earning More Than Their Managers](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/60_Employees_Earning_More_Than_Their_Managers.sql) | Easy      |
