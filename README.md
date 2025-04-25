@@ -128,3 +128,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 60      | [Employees Earning More Than Their Managers](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/60_Employees_Earning_More_Than_Their_Managers.sql) | Easy      |
 | 61      | [Duplicate Emails](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/61_Duplicate_Emails.sql)                                             | Easy      |
 | 62      | [Department Highest Salary](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/62_Department_Highest_Salary.sql)                           | Medium    |
+| 63      | [Find Products with Valid Serial Numbers](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/63_Find_Products_with_Valid_Serial_Numbers.sql)| Medium    |
