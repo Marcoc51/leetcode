@@ -131,3 +131,4 @@ These solutions have been tested and verified to work correctly on the LeetCode 
 | 63      | [Find Products with Valid Serial Numbers](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/63_Find_Products_with_Valid_Serial_Numbers.sql) | Easy      |
 | 64      | [Find Valid Emails](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/64_Find_Valid_Emails.sql)                                           | Easy      |
 | 65      | [Odd and Even Transactions](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/65_Odd_and_Even_Transactions.sql)                           | Medium    |
+| 66      | [Find Students Who Improved](https://github.com/Marcoc51/leetcode/blob/main/SQL%20I/66_Find_Students_Who_Improved.sql)                         | Medium    |
